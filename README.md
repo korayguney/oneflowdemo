@@ -1,4 +1,4 @@
-[![Java CI with Maven](https://github.com/korayguney/oneflowdemo/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/korayguney/oneflowdemo/actions/workflows/deploy.yml)
+![Java CI with Maven](https://github.com/korayguney/oneflowdemo/actions/workflows/deploy.yml/badge.svg)
 
 
 # oneflowdemo
